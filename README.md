@@ -7,7 +7,7 @@ I'm **Abhishek Gaire**, a passionate developer from **Pokhara, Nepal**. I love c
 As a developer, I thrive on challenges and enjoy solving complex problems. Currently, I'm focused on building dynamic applications using modern technologies. I have a strong foundation in web development and am always eager to learn more.
 
 ## Skills & Technologies
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 nodejs,mongodb,js,discord,discordjs,vite,mysql,github,git,vercel,gmail,linux,npm,nuxtjs,postgres,postman,powershell
 
 ## Top Projects
