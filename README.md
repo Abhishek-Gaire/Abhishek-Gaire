@@ -29,13 +29,10 @@ As a developer, I thrive on challenges and enjoy solving complex problems. Curre
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek-Gaire&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Connect with Me
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhisek-gaire-359294219) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/GaireAbhishek44) 
 
-{"twitter":"https://twitter.com/GaireAbhishek44","linkedin":"https://www.linkedin.com/in/abhisek-gaire-359294219/"}
