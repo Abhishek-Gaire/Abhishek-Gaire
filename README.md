@@ -26,7 +26,7 @@ As a developer, I thrive on challenges and enjoy solving complex problems. Curre
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,prisma,spring,express,react,redux,redis,vscode,java,mysql,postgres,postman,tailwind,vercel&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,prisma,spring,express,react,redux,redis,vscode,java,mysql,postgres,postman,tailwind,vercel&perline=16)](https://skillicons.dev)
 
 ## GitHub Stats
 🌟 **Public Repositories:** 27  
