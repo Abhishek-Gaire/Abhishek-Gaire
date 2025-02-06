@@ -61,3 +61,11 @@ Check out my blog for insights and tutorials on software development! [Visit My 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisek-gaire-359294219) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/GaireAbhishek44) 
 
+```
+     _    _     _     _     _          _          ____       _          
+    / \  | |__ | |__ (_)___| |__   ___| | __     / ___| __ _(_)_ __ ___ 
+   / _ \ | '_ \| '_ \| / __| '_ \ / _ \ |/ /____| |  _ / _` | | '__/ _ \
+  / ___ \| |_) | | | | \__ \ | | |  __/   <_____| |_| | (_| | | | |  __/
+ /_/   \_\_.__/|_| |_|_|___/_| |_|\___|_|\_\     \____|\__,_|_|_|  \___|
+                                                                        
+```
